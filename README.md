@@ -32,7 +32,7 @@ Jak hraje Vám případně pošlu do chatu
 ## Pracovníci
 Já ( Adam Pfeifer ) a Marián Grulich.
 ## Zdroje
-To co jsme věděli jsme si udělali sami, popřípadě nám trochu pomohl internet. A s čím si ani internet nepomohl, tak s tím nám pomohl mariánův taťka.
+To co jsme věděli jsme si udělali sami, co jsme nevěděli tak s tím nám pomohl mariánův taťka.
 <!---
 pfeiferadam/pfeiferadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
